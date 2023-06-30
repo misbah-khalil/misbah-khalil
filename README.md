@@ -1,9 +1,9 @@
 
-<a href="https://github.com/misbah-khalil">
+<a href="https://github.com/misbahkhalilaz">
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=misbah-khalil&theme=monokai" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=misbah-khalil&show_icons=true&theme=monokai&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misbah-khalil&layout=compact&langs_count=7&theme=monokai" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=misbahkhalilaz&theme=monokai" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=misbahkhalilaz&show_icons=true&theme=monokai&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misbahkhalilaz&layout=compact&langs_count=7&theme=monokai" />
 </div>
 
 <div style="display: inline_block"><br>
@@ -22,5 +22,5 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-_<a href="https://github.com/misbah-khalil">Link to my other GitHub profile</a>_
+_<a href="https://github.com/misbahkhalilaz">Link to my other GitHub profile</a>_
 
